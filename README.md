@@ -9,7 +9,6 @@ I learn ***quickly*** and I am comfortable working in a ***team*** and ***indepe
 <br/><br/>
 
 ---
-I am passionate about the world of technology and its potential to improve our daily lives but I am particularly interested in web development and cybersecurity, and I would like to strengthen my skills in these specific areas. I am an organized, self-starter with a sense of responsibility. I have a great ability to work in a team, communicate effectively, manage priorities and meet deadlines.
 
 # Some Stats
 
