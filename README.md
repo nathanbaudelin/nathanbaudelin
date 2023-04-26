@@ -15,7 +15,7 @@ I am passionate about the world of technology and its potential to improve our d
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanbaudelin&show_icons=true&count_private=true&theme=nord&hide=prs,issues,contribs)<br/><br/>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanbaudelin&" alt="nathanbaudelin" /></p><br/><br/>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanbaudelin&" alt="nathanbaudelin" /></p><br/>
 
 [![Tops Language](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanbaudelin&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
 
