@@ -1,7 +1,7 @@
 ### ***Hi there 👋***</br>
 
 # About Me
-I am a first year student at the **EPITECH** Lyon computer school.<br/>
+I am a second year student at the **EPITECH** Lyon computer school.<br/>
 I am ***energetic*** and ***detail oriented*** with ***high motivation***.<br/>
 During my fist year at **Epitech**, I acquired ***strong programming skills*** (C and Python).<br/>
 I learn ***quickly*** and I am comfortable working in a ***team*** and ***independently***.<br/><br/>
